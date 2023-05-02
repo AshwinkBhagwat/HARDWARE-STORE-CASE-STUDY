@@ -20,3 +20,5 @@ These insights can be used to identify opportunities for growth and formulate st
 ## 🛠 Skills
 Python , SQL SEVER , POWER BI , EXCEL
 
+## Power- Bi Dashboard
+https://drive.google.com/file/d/1p1r3ZDDRxGNau5CUZ5zVus6xU3B-foe2/view?usp=sharing
